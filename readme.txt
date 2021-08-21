@@ -7,11 +7,11 @@ Essential python libraries for proposed algorithm :
 4. pandas
 5. scipy.special
 6. csv 
-Dataset 1 :
+Dataset1 :
 •	Moonlighting proteins_Dataset1.fasta 
 •	non_Moonlighting Proteins_dataset_1_2.fasta
 
-Dataset 2 : 
+Dataset2 : 
 
 •	Moonlighting proteins_Dataset2.fasta
 •	non_Moonlighting Proteins_dataset_1_2.fasta
